@@ -14,3 +14,10 @@ def gcd(a, b):
 # try out the function with a few examples
 print(gcd(60, 96))  # should be 12
 print(gcd(20, 8))   # should be 4
+
+
+# To run the code:
+# run using python extension ctrl+Shift+P
+# and click Python: Run Puthon file in Terminal
+# OR 
+# command: python gcd.py
